@@ -1,0 +1,22 @@
+#profile_pic {
+  border-radius: 50%;
+  border: .3em solid teal; 
+  background-size: cover; 
+  position: relative;
+  overflow: hidden;
+}
+
+.name{
+ font-family: 'Caveat', cursive;
+ }
+
+.nav{
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5em;
+}
+#nav{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:1.5em;
+}
+
+
